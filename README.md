@@ -1,6 +1,6 @@
 # Hi! I'm Gagan 👋
 
-Driven by curiosity and a passion for technology, I love exploring new ideas and contributing to open-source projects. My GitHub is a space where I share my experiments, tools, and learnings. I’m always excited to connect with like-minded individuals and collaborate on innovative projects. Let’s build something great together!
+Driven by curiosity and a passion for technology, I love exploring new ideas and contributing to open-source projects. My GitHub is a space where I share my experiments, tools, and learnings. I’m always excited to connect with like-minded individuals and collaborate on innovative projects.
 
 ## Languages I Use
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
