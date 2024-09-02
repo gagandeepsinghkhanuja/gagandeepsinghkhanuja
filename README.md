@@ -1,4 +1,4 @@
-# Hi! I'm Gagan 👋 ## Visitors Count
+# Hi! I'm Gagan 👋 
 ![Visitor Count](https://komarev.com/ghpvc/?username=gagandeepsinghkhanuja&color=blue)
 
 Driven by curiosity and a passion for technology, I love exploring new ideas and contributing to open-source projects. My GitHub is a space where I share my experiments, tools, and learnings. I’m always excited to connect with like-minded individuals and collaborate on innovative projects.
