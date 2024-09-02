@@ -23,3 +23,7 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gagandeepsinghkhanuja&layout=compact&theme=radical)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gagandeepsinghkhanuja&theme=radical)
+
+### GitHub Profile Summary Cards
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gagandeepsinghkhanuja&theme=radical)
