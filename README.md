@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gagandeepsinghkhanuja&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gagandeepsinghkhanuja&layout=compact&theme=radical)
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gagandeepsinghkhanuja&theme=radical)
