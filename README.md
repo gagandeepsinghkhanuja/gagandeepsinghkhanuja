@@ -5,7 +5,6 @@ Driven by curiosity and a passion for technology, I love exploring new ideas and
 
 ## Languages I Use
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=R)
 ![Google BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=google-cloud)
 
